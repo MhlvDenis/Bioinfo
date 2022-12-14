@@ -1,6 +1,6 @@
-## Отчет
+# Отчет
 
-#### Использованные последовательности SARS-CoV-2
+### Использованные последовательности SARS-CoV-2
 Australia   | ON819429.1  
 Canada      | ON072485.1  
 China       | OP678016.1  
@@ -11,5 +11,10 @@ Russia      | ON032860.1
 USA         | OQ028700.1  
 Venezuela   | MZ611960.1  
 
-#### Множественное выравнивание Muscle
+### Множественное выравнивание Muscle
 [Выравнивание](Alignment.fas)
+
+### Деревья
+
+[Maximum Likelihood](trees/Maximum Likelihood.png)
+![](trees/Maximum Likelihood.png)
