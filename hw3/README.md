@@ -30,3 +30,14 @@ Maximum Parsimony
 UPGMA
 ![](https://github.com/MhlvDenis/Bioinfo/blob/main/hw3/trees/UPGMA.png)
 Раньше других заразился USA, последние Iran и Canada.  
+
+### Мутации
+Рассмотрим мутации Iran относительно China  
+[Скриншоты мутаций на выравнивании](https://github.com/MhlvDenis/Bioinfo/tree/main/hw3/mutations)
+#### Координаты мутаций:
+* 631
+* 1588
+* 2751
+* 2998
+* 4145
+Все рассмотренные мутации попадают в ген **ORF1ab**
