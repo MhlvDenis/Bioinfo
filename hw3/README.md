@@ -16,5 +16,17 @@ Venezuela   | MZ611960.1
 
 ### Деревья
 
+Раньше заразились те, кто располагается ближе к SARS-CoV-1  
+
 Maximum Likelihood
 ![](https://github.com/MhlvDenis/Bioinfo/blob/main/hw3/trees/Maximum%20Likelihood.png)
+Раньше других заразился Iran, последний China.  
+
+
+Maximum Parsimony
+![](https://github.com/MhlvDenis/Bioinfo/blob/main/hw3/trees/Maximum%20Parsimony.png)
+Раньше других заразился Venezuela, последний Iran.  
+
+UPGMA
+![](https://github.com/MhlvDenis/Bioinfo/blob/main/hw3/trees/UPGMA.png)
+Раньше других заразился USA, последние Iran и Canada.  
