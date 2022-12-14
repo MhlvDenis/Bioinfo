@@ -16,5 +16,5 @@ Venezuela   | MZ611960.1
 
 ### Деревья
 
-[Maximum Likelihood](trees/Maximum Likelihood.png)
-![](trees/Maximum Likelihood.png)
+Maximum Likelihood
+![](https://github.com/MhlvDenis/Bioinfo/blob/main/hw3/trees/Maximum%20Likelihood.png)
