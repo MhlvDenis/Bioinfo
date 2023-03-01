@@ -28,8 +28,8 @@ rs1393350	11	89011046	AG
 rs12203592	6	396321	CC
 ```
 
-Вносим результат в таблицу:
-![](IrisPlex/predicted_color.png)
+Вносим результат в таблицу:  
+![](IrisPlex/predicted_color.png)  
 Наиболее вероятный цвет глаз - голубой.
 
 ### 2)
@@ -48,11 +48,11 @@ rs2066865	4	155525276	GG
 rs2036914	4	187192481	TT
 ```
 Материалы:  
-https://www.ebi.ac.uk/gwas/variants/rs2036914
-https://www.snpedia.com/index.php/Rs1799963
-https://www.snpedia.com/index.php/Rs6025
-https://www.ebi.ac.uk/gwas/variants/rs8176719
-https://www.ebi.ac.uk/gwas/variants/rs2066865
+https://www.ebi.ac.uk/gwas/variants/rs2036914  
+https://www.snpedia.com/index.php/Rs1799963  
+https://www.snpedia.com/index.php/Rs6025  
+https://www.ebi.ac.uk/gwas/variants/rs8176719  
+https://www.ebi.ac.uk/gwas/variants/rs2066865  
 
 Рискованные генотипы:  
 rs6025 - AA, AG  
@@ -64,7 +64,7 @@ rs2066865 - AA
 
 
 ### 3) rs4680
-https://www.snpedia.com/index.php/Rs4680
+https://www.snpedia.com/index.php/Rs4680  
 Влияет на расщепление дофамина в префронтальной коре головного мозга, что влияет на различные когнитивные характеристики.
 ```asm
 grep -w 'rs4680' 11702.23andme.9618
