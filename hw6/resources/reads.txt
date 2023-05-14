@@ -1,0 +1,100 @@
+1. Canis lupus genome assembly, chromosome: 3
+2. Canis lupus familiaris breed Labrador retriever chromosome 02a
+3. -
+4. Canis lupus genome assembly, chromosome: 3
+5. Canis lupus familiaris breed Labrador retriever chromosome 02a
+6. -
+7. -
+8. Canis lupus genome assembly, chromosome: 3
+9. -
+10. Canis lupus familiaris breed Labrador retriever chromosome 37a
+11. -
+12. Canis lupus genome assembly, chromosome: 3
+13. Canis lupus genome assembly, chromosome: 3
+14. Canis lupus genome assembly, chromosome: 20
+15. Canis lupus genome assembly, chromosome: 3
+16. Canis lupus genome assembly, chromosome: 3
+17. -
+18. Mus musculus musculus genome assembly, chromosome: 18
+19. Canis lupus familiaris breed Labrador retriever chromosome 02a
+20. Canis lupus genome assembly, chromosome: 3
+21. Canis lupus genome assembly, chromosome: 3
+22. -
+23. Canis lupus genome assembly, chromosome: 3
+24. Canis lupus familiaris breed Labrador retriever chromosome 02a
+25. -
+26. -
+27. Canis lupus genome assembly, chromosome: 3
+28. -
+29. Canis lupus familiaris breed Labrador retriever chromosome 02a
+30. -
+31. -
+32. Canis lupus genome assembly, chromosome: 3
+33. Canis lupus genome assembly, chromosome: 3
+34. Canis lupus familiaris breed Labrador retriever chromosome 32a
+35. Lutra lutra genome assembly, chromosome: 12
+36. Canis lupus familiaris breed Labrador retriever chromosome 05a
+37. Canis lupus genome assembly, chromosome: 3
+38. Canis lupus genome assembly, chromosome: 3
+39. -
+40. Canis lupus genome assembly, chromosome: 3
+41. Canis lupus familiaris breed Labrador retriever chromosome 34a
+42. Homo sapiens hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha (HADHA), RefSeqGene (LRG_747) on chromosome 2; nuclear gene for mitochondrial product
+43. Homo sapiens FOSMID clone ABC10-45509400B7 from chromosome 3, complete sequence
+44. Homo sapiens 3 BAC RP11-572O6 (Roswell Park Cancer Institute Human BAC Library) complete sequence
+45. Homo sapiens roundabout guidance receptor 1 (ROBO1), RefSeqGene on chromosome 
+46. Homo sapiens chromosome 5 clone RP11-867C24, complete sequence
+47. Homo sapiens transmembrane protein 43 (TMEM43), RefSeqGene (LRG_435) on chromosome 3; nuclear gene for mitochondrial product
+48. Homo sapiens chromosome 3 clone RP11-61I9 map 3p, complete sequence
+49. Homo sapiens chromosome 5 clone CTD-2138O14, complete sequence
+50. Homo sapiens chromosome 5 clone CTD-2323D3, complete sequence
+51. Homo sapiens chromosome 3 clone RP11-632N2, complete sequence
+52. Homo sapiens tubulin polymerization promoting protein (TPPP), mRNA
+53. Homo sapiens chromosome 5 clone CTD-2548J21, complete sequence
+54. Homo sapiens LYR motif containing 4 (LYRM4), RefSeqGene on chromosome 6
+55. Mus musculus chromosome 3, clone RP23-373G12, complete sequence
+56. Mus musculus strain C57BL6/J chromosome 6 clone RP23-25N12, complete sequence
+57. Mus musculus BAC clone RP24-362J12 from chromosome 6, complete sequence
+58. Mus musculus vomeronasal 2, receptor, pseudogene 40 (Vmn2r-ps40) on chromosome 7
+59. Mus musculus BAC clone RP23-365D12 from chromosome 1, complete sequence
+60. Mus musculus caveolin 1, caveolae protein (Cav1), transcript variant 16, non-coding RNA
+61. Mus musculus chromosome 5, clone RP23-297N19, complete sequence
+62. Mus musculus chromosome 3, clone RP24-87H3, complete sequence
+63. Mus musculus chromosome 5, clone RP23-177I4, complete sequence
+64. Mus musculus strain C57BL6/J chromosome 6 clone RP23-99G18, complete sequence
+65. Mus musculus BAC clone RP23-128B1 from chromosome 5, complete sequence
+66. Mus musculus strain C57BL/6J clone rp23-430i3, complete sequence
+67. Mus musculus targeted deletion, lacZ-tagged mutant allele 1110008P14Rik:tm1(KOMP)Wtsi; transgenic
+68. Mus musculus 0 day neonate thymus cDNA, RIKEN full-length enriched library, clone:A430106P18 product:RIKEN cDNA A430106P18 gene, full insert sequence
+69. Mus musculus BAC clone RP24-111L5 from 3, complete sequence
+70. Mus musculus BAC clone RP23-339I6 from chromosome 5, complete sequence
+71. Mus musculus BAC clone RP23-368O1 from chromosome 5, complete sequence
+72. Mus musculus chromosome 3, clone RP24-377J3, complete sequence
+73. Mus musculus BAC clone RP24-458M4 from chromosome 3, complete sequence
+74. Mus musculus 6 BAC RP23-345F4 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+75. Mus musculus targeted non-conditional, lacZ-tagged mutant allele Lrp1b:tm1e(EUCOMM)Hmgu; transgenic
+76. Mus musculus BAC clone RP24-247N18 from chromosome 3, complete sequence
+77. Mouse DNA sequence from clone RP23-336B11 on chromosome 4, complete sequence
+78. Mus musculus targeted non-conditional, lacZ-tagged mutant allele Oscar:tm1e(KOMP)Wtsi; transgenic
+79. Mus musculus chromosome 3, clone RP24-534H10, complete sequence
+80. Mus musculus targeted non-conditional, lacZ-tagged mutant allele Atp6v0a4:tm1e(EUCOMM)Hmgu; transgenic
+81. Mus musculus chromosome 1, clone RP23-346B12, complete sequence
+82. Mus musculus chromosome 3, clone RP23-269G19, complete sequence
+83. Mus musculus BAC clone RP23-94F17 from chromosome 5, complete sequence
+84. Mus musculus chromosome 6, clone RP24-548D19, complete sequence
+85. Mouse DNA sequence from clone RP23-476F6 on chromosome 4, complete sequence
+86. Mouse DNA sequence from clone RP23-152A20 on chromosome 4, complete sequence
+87. Mus musculus chromosome 1, clone RP24-104I19, complete sequence
+88. Mus musculus BAC clone RP23-370E6 from 3, complete sequence
+89. Mus musculus BAC clone RP24-111L5 from 3, complete sequence
+90. Mus musculus BAC clone RP23-110E8 from 1, complete sequence
+91. PREDICTED: Mus musculus spermatogenesis associated 5 (Spata5), transcript variant X2, mRNA
+92. Mouse DNA sequence from clone RP23-402C17 on chromosome 4, complete sequence
+93. Mus musculus BAC clone RP23-339E1 from chromosome 1, complete sequence
+94. Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Calcr:tm1a(KOMP)Wtsi; transgenic
+95. PREDICTED: Mus musculus transducin (beta)-like 1X-linked receptor 1 (Tbl1xr1), transcript variant X3, mRNA
+96. Mouse DNA sequence from clone RP23-400P11 on chromosome 4, complete sequence
+97. Mus musculus BAC clone RP23-87D8 from chromosome 1, complete sequence
+98. Mus musculus BAC clone RP23-12O8 from chromosome 1, complete sequence
+99. Mouse DNA sequence from clone RP24-468P16 on chromosome 4, complete sequence
+100. Mus musculus chromosome 5, clone RP24-253A20, complete sequence
